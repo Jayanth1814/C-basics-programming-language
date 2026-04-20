@@ -37,14 +37,23 @@ Solve time-bound coding challenges efficiently
 ✔ Debugging & Code Efficiency
 
 ## 📄 Certificate Proof
-Screenshot 2026-04-20 194329
+
+<img width="1340" height="992" alt="image" src="https://github.com/user-attachments/assets/2a5c7986-9331-45e0-b054-0a1ff149a62c" />
+
+
 📈 Why This Matters
+
 Unlike theory-based exams, this certification is:
 
+
 ✅ Performance-based (real coding problems)
+
 ⏱️ Time-constrained (tests problem-solving speed)
+
 🎯 Industry-recognized (used by recruiters globally)
+
 🚀 Next Goals
+
 Advance to Intermediate/Advanced C# Certification
 
 Strengthen Data Structures & Algorithms
